@@ -24,6 +24,6 @@ setup(
     ],
     entry_points='''
         [console_scripts]
-        emdata_clean=emdata_clean.cli:cli
+        emdata_clean=emdata_clean.main:cli
     '''
 )
